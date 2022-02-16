@@ -1,0 +1,1003 @@
+<?xml-stylesheet type="text/css" href="ch10_1.css"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- PDFTron PDFNet Generated! Version: 9.2.0-49e77c221c -->
+<svg id="svgRoot" version="1.1" baseProfile="Full" width="720px" height="540px" viewBox="0 0 720 540" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cs="http://www.pdftron.com/pdf2svg" xml:space="preserve">
+<defs>
+</defs>
+<style type="text/css">
+<![CDATA[
+.ps04 { stroke:#000000;fill:#000000; }
+.ps06 { stroke:#000000;fill:none; }
+.ps05 { stroke:#0000FF;fill:#0000FF; }
+.ps012 { stroke:#0000FF;fill:none; }
+.ps014 { stroke:#00AF50;fill:none; }
+.ps016 { stroke:#00B6FF;fill:none; }
+.ps07 { stroke:#FF0000;fill:#FF0000; }
+.ps010 { stroke:#FF0000;fill:none; }
+.ps09 { stroke:none;fill:#000000; }
+.ps03 { stroke:none;fill:#000000;fill-rule:nonzero; }
+.ps015 { stroke:none;fill:#0000FF; }
+.ps08 { stroke:none;fill:#0000FF;fill-rule:nonzero; }
+.ps01 { stroke:none;fill:#898989; }
+.ps011 { stroke:none;fill:#FF0000; }
+.ps013 { stroke:none;fill:#FFFFFF;fill-rule:evenodd; }
+.ps02 { stroke:none;fill:#FFFFFF;fill-rule:nonzero; }
+.ps00 { stroke:none;fill:none; }
+.ps15 { stroke-linecap:round;stroke-miterlimit:8; }
+.ps14 { stroke-miterlimit:8; }
+.ps120 { stroke-width:0.05; }
+.ps118 { stroke-width:0.469;stroke-miterlimit:10; }
+.ps113 { stroke-width:0.506;stroke-linejoin:miter; }
+.ps19 { stroke-width:0.573;stroke-linecap:butt;stroke-miterlimit:10; }
+.ps110 { stroke-width:0.649;stroke-linecap:butt;stroke-miterlimit:10; }
+.ps114 { stroke-width:0.675;stroke-linejoin:miter; }
+.ps13 { stroke-width:0.686; }
+.ps17 { stroke-width:0.686;stroke-linecap:butt;stroke-miterlimit:10; }
+.ps117 { stroke-width:0.686;stroke-miterlimit:10; }
+.ps111 { stroke-width:0.72;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10; }
+.ps11 { stroke-width:0.799; }
+.ps16 { stroke-width:0.799;stroke-linecap:butt;stroke-miterlimit:10; }
+.ps116 { stroke-width:0.799;stroke-miterlimit:10; }
+.ps10 { stroke-width:0.915; }
+.ps112 { stroke-width:16;stroke-linecap:square;stroke-linejoin:miter; }
+.ps18 { stroke-width:16;stroke-linecap:square;stroke-miterlimit:10; }
+.ps115 { stroke-width:2.04;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8; }
+.ps119 { stroke-width:2.04;stroke-linejoin:miter;stroke-miterlimit:8; }
+.ps12 { stroke-width:2.28;stroke-linejoin:round; }
+.ps233 { 
+letter-spacing:0.05592px;word-spacing:-0.05592;font-family:fnt12;font-style:normal;font-weight:normal;font-size:27.96px; }
+.ps211 { 
+letter-spacing:0.06012px;word-spacing:-0.06012;font-family:fnt6;font-style:normal;font-weight:normal;font-size:20.04px; }
+.ps21 { 
+letter-spacing:0.06408px;word-spacing:-0.06408;font-family:fnt0;font-style:normal;font-weight:normal;font-size:32.04px; }
+.ps25 { 
+letter-spacing:0.11184px;word-spacing:-0.11184;font-family:fnt1;font-style:normal;font-weight:normal;font-size:27.96px; }
+.ps224 { 
+letter-spacing:0.12024px;word-spacing:-0.12024;font-family:fnt1;font-style:normal;font-weight:normal;font-size:20.04px; }
+.ps23 { 
+letter-spacing:0.12816px;word-spacing:-0.12816;font-family:fnt1;font-style:normal;font-weight:normal;font-size:32.04px; }
+.ps29 { 
+letter-spacing:0.12px;word-spacing:-0.12;font-family:fnt1;font-style:normal;font-weight:normal;font-size:24px; }
+.ps24 { 
+letter-spacing:0.16776px;word-spacing:-0.16776;font-family:fnt12;font-style:normal;font-weight:normal;font-size:27.96px; }
+.ps20 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt0;font-style:normal;font-weight:normal;font-size:12px; }
+.ps213 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt0;font-style:normal;font-weight:normal;font-size:18px; }
+.ps234 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt0;font-style:normal;font-weight:normal;font-size:22.254px; }
+.ps216 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt0;font-style:normal;font-weight:normal;font-size:24.908px; }
+.ps22 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt0;font-style:normal;font-weight:normal;font-size:32.04px; }
+.ps241 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt11;font-style:normal;font-weight:normal;font-size:12.947px; }
+.ps239 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt12;font-style:normal;font-weight:normal;font-size:11.686px; }
+.ps228 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt12;font-style:normal;font-weight:normal;font-size:12.501px; }
+.ps231 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt12;font-style:normal;font-weight:normal;font-size:16.775px; }
+.ps238 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt12;font-style:normal;font-weight:normal;font-size:20.033px; }
+.ps227 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt12;font-style:normal;font-weight:normal;font-size:21.431px; }
+.ps225 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt12;font-style:normal;font-weight:normal;font-size:24.789px; }
+.ps221 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt12;font-style:normal;font-weight:normal;font-size:24px; }
+.ps27 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt12;font-style:normal;font-weight:normal;font-size:27.96px; }
+.ps230 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt12;font-style:normal;font-weight:normal;font-size:28.758px; }
+.ps222 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt16;font-style:normal;font-weight:normal;font-size:24px; }
+.ps223 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt17;font-style:normal;font-weight:normal;font-size:24px; }
+.ps210 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt1;font-style:normal;font-weight:normal;font-size:20.04px; }
+.ps28 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt1;font-style:normal;font-weight:normal;font-size:24px; }
+.ps26 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt1;font-style:normal;font-weight:normal;font-size:27.96px; }
+.ps237 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt2;font-style:normal;font-weight:normal;font-size:22.254px; }
+.ps220 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt2;font-style:normal;font-weight:normal;font-size:23.939px; }
+.ps217 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt2;font-style:normal;font-weight:normal;font-size:24.908px; }
+.ps240 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt4;font-style:normal;font-weight:normal;font-size:20.033px; }
+.ps229 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt4;font-style:normal;font-weight:normal;font-size:21.431px; }
+.ps236 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt4;font-style:normal;font-weight:normal;font-size:22.254px; }
+.ps219 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt4;font-style:normal;font-weight:normal;font-size:23.939px; }
+.ps226 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt4;font-style:normal;font-weight:normal;font-size:24.789px; }
+.ps215 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt4;font-style:normal;font-weight:normal;font-size:24.908px; }
+.ps232 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt4;font-style:normal;font-weight:normal;font-size:28.758px; }
+.ps212 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt6;font-style:normal;font-weight:normal;font-size:20.04px; }
+.ps235 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt6;font-style:normal;font-weight:normal;font-size:22.254px; }
+.ps218 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt6;font-style:normal;font-weight:normal;font-size:23.939px; }
+.ps214 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt6;font-style:normal;font-weight:normal;font-size:24.908px; }
+]]>
+</style>
+<clipPath id="clp1" clip-rule="nonzero">
+<rect x="0" y="0" width="720" height="540"/>
+</clipPath>
+<g clip-path="url(#clp1)" transform="matrix(1 0 0 -1 -0 540)">
+<g id="q1" class="">
+<g id="q2" class="">
+<clipPath id="clp2" clip-rule="nonzero">
+<path d="M0 540 L250.68 540 L250.68 508.08 L0 508.08 Z"/>
+</clipPath>
+<g clip-path="url(#clp2)">
+<g id="q3" class="ps00">
+<g id="xfrm4" transform="matrix(250.67998 0 0 42.839996 0 508.07993)">
+<defs>
+  <mask id="msk2927" maskUnits="userSpaceOnUse" x="0" y="0" width="1" height="1">
+<image width="1" height="1" preserveAspectRatio="none" image-rendering="optimizeSpeed" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAtYAAAB8CAAAAABoY6i7AAAACXBIWXMAAAAAAAAAAACdYiYyAAABY0lEQVR4nO3SwQkAIBDAMHX/nc8lBKEkE/TRPQtqzu8AeM/WBNmaIFsTZGuCbE2QrQmyNUG2JsjWBNmaIFsTZGuCbE2QrQmyNUG2JsjWBNmaIFsTZGuCbE2QrQmyNUG2JsjWBNmaIFsTZGuCbE2QrQmyNUG2JsjWBNmaIFsTZGuCbE2QrQmyNUG2JsjWBNmaIFsTZGuCbE2QrQmyNUG2JsjWBNmaIFsTZGuCbE2QrQmyNUG2JsjWBNmaIFsTZGuCbE2QrQmyNUG2JsjWBNmaIFsTZGuCbE2QrQmyNUG2JsjWBNmaIFsTZGuCbE2QrQmyNUG2JsjWBNmaIFsTZGuCbE2QrQmyNUG2JsjWBNmaIFsTZGuCbE2QrQmyNUG2JsjWBNmaIFsTZGuCbE2QrQmyNUG2JsjWBNmaIFsTZGuCbE2QrQmyNUG2JsjWBNmaIFsTZGuCbE2QrQmyNUG2JsjWBNmaoAvTBwH30ClNrwAAAABJRU5ErkJggg=="/>
+</mask></defs>
+<image id="img2913" width="1" height="1" transform="matrix(1 0 0 -1 0 1)" preserveAspectRatio="none" image-rendering="optimizeSpeed" mask="url(#msk2927)" xlink:href="data:image/jpg;base64,
+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"/>
+</g>
+</g>
+</g>
+</g>
+<text transform="matrix(1 0 0 -1 664.68 24.26)"><tspan x="0,6" y="-0" class="ps01 ps20">17</tspan>
+</text>
+<path d="M0 450.12 L646.32 450.12 L646.32 504.12 L0 504.12 Z" class="ps02 ps20"/>
+<text transform="matrix(1 0 0 -1 7.2 469.2321)"><tspan x="0,16.084" y="-0" class="ps03 ps21">10</tspan>
+<tspan x="32.168" y="-0" class="ps03 ps22">.</tspan>
+<tspan x="40.21" y="-0" class="ps03 ps22">2</tspan>
+<tspan x="56.294" y="-0" class="ps03 ps22">.</tspan>
+<tspan x="64.336" y="-0" class="ps03 ps22">2</tspan>
+</text>
+<g id="q5" class="ps03 ps22">
+<clipPath id="clp3" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp3)">
+<text transform="matrix(1 0 0 -1 95.16 469.2321)"><tspan x="0,32.168,64.336,96.504,128.67,160.84,193.01,225.18,257.35,289.51,321.68,353.85,386.02" y="-0" class="ps04 ps10 ps23">&#x5BF9;&#x6D41;&#x4F20;&#x70ED;&#x95EE;&#x9898;&#x5B8C;&#x6574;&#x7684;&#x6570;&#x5B66;&#x63CF;&#x5199;</tspan>
+</text>
+</g>
+</g>
+<g id="q6" class="ps03 ps22">
+<clipPath id="clp4" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp4)">
+<text transform="matrix(1 0 0 -1 40.2 420.23)"><tspan x="0,14.148" y="-0" class="ps04 ps11 ps24">1.</tspan>
+</text>
+</g>
+</g>
+<g id="q7" class="ps03 ps22">
+<clipPath id="clp5" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp5)">
+<text transform="matrix(1 0 0 -1 68.52 420.23)"><tspan x="0,28.072" y="-0" class="ps05 ps11 ps25">&#x8D28;&#x91CF;</tspan>
+</text>
+</g>
+</g>
+<g id="q8" class="ps03 ps22">
+<clipPath id="clp6" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp6)">
+<text transform="matrix(1 0 0 -1 124.68 420.23)"><tspan x="0" y="-0" class="ps04 ps11 ps25">&#x5B88;</tspan>
+<tspan x="28.2,56.272,84.344" y="-0" class="ps04 ps11 ps25">&#x6052;&#x5B9A;&#x5F8B;</tspan>
+</text>
+</g>
+</g>
+<g id="q9" class="ps03 ps22">
+<clipPath id="clp7" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp7)">
+<text transform="matrix(1 0 0 -1 40.2 369.48)"><tspan x="0,14.148" y="-0" class="ps04 ps11 ps24">2.</tspan>
+</text>
+</g>
+</g>
+<g id="q10" class="ps03 ps22">
+<clipPath id="clp8" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp8)">
+<text transform="matrix(1 0 0 -1 68.52 369.48)"><tspan x="0,28.072" y="-0" class="ps05 ps11 ps25">&#x52A8;&#x91CF;</tspan>
+</text>
+</g>
+</g>
+<g id="q11" class="ps03 ps22">
+<clipPath id="clp9" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp9)">
+<text transform="matrix(1 0 0 -1 124.68 369.48)"><tspan x="0" y="-0" class="ps04 ps11 ps25">&#x5B88;</tspan>
+<tspan x="28.2,56.272,84.344" y="-0" class="ps04 ps11 ps25">&#x6052;&#x5B9A;&#x5F8B;</tspan>
+</text>
+</g>
+</g>
+<g id="q12" class="ps03 ps22">
+<clipPath id="clp10" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp10)">
+<text transform="matrix(1 0 0 -1 40.7 318.105)"><tspan x="0,14.148" y="-0" class="ps04 ps11 ps24">3.</tspan>
+</text>
+</g>
+</g>
+<g id="q13" class="ps03 ps22">
+<clipPath id="clp11" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp11)">
+<text transform="matrix(1 0 0 -1 69.02 318.105)"><tspan x="0,28.072,56.144" y="-0" class="ps04 ps11 ps25">&#x80FD;&#x91CF;&#x5B88;</tspan>
+<tspan x="84.344,112.42,140.49" y="-0" class="ps04 ps11 ps25">&#x6052;&#x5B9A;&#x5F8B;</tspan>
+</text>
+</g>
+</g>
+<g id="q14" class="ps03 ps22">
+<clipPath id="clp12" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp12)">
+<g id="q15" class="ps00 ps12">
+<g id="xfrm16" transform="matrix(1 0 0 1 31.62 326.58)">
+<path d="M0 0 C-5.136 0 -9.3 2.456 -9.3 5.485 L-9.3 46.175 C-9.3 49.204 -13.464 51.66 -18.6 51.66 C-13.464 51.66 -9.3 54.116 -9.3 57.145 L-9.3 97.835 C-9.3 100.86 -5.136 103.32 0 103.32" class="ps06"/>
+</g>
+</g>
+</g>
+</g>
+<g id="q17" class="ps03 ps22">
+<clipPath id="clp13" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp13)">
+<text transform="matrix(1 0 0 -1 38.7 231.5331)"><tspan x="0,28.072,56.144,84.216" y="-0" class="ps04 ps11 ps25">&#x6D41;&#x4F53;&#x529B;&#x5B66;</tspan>
+</text>
+</g>
+</g>
+<g id="q18" class="ps03 ps22">
+<clipPath id="clp14" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp14)">
+<text transform="matrix(1 0 0 -1 151.14 231.5331)"><tspan x="0,14.148,28.296" y="-0" class="ps04 ps11 ps24">p57</tspan>
+</text>
+</g>
+</g>
+<g id="q19" class="ps03 ps22">
+<clipPath id="clp15" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp15)">
+<text transform="matrix(1 0 0 -1 193.62 231.5331)"><tspan x="0" y="-0" class="ps04 ps11 ps26">&#x5F0F;</tspan>
+</text>
+</g>
+</g>
+<g id="q20" class="ps03 ps22">
+<clipPath id="clp16" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp16)">
+<text transform="matrix(1 0 0 -1 221.7 231.5331)"><tspan x="0" y="-0" class="ps04 ps11 ps27">(</tspan>
+</text>
+</g>
+</g>
+<g id="q21" class="ps03 ps22">
+<clipPath id="clp17" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp17)">
+<text transform="matrix(1 0 0 -1 235.86 231.5331)"><tspan x="0" y="-0" class="ps04 ps11 ps27">4</tspan>
+</text>
+</g>
+</g>
+<g id="q22" class="ps03 ps22">
+<clipPath id="clp18" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp18)">
+<text transform="matrix(1 0 0 -1 250.02 231.5331)"><tspan x="0" y="-0" class="ps04 ps11 ps27">-</tspan>
+</text>
+</g>
+</g>
+<g id="q23" class="ps03 ps22">
+<clipPath id="clp19" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp19)">
+<text transform="matrix(1 0 0 -1 264.06 231.5331)"><tspan x="0,14.148,28.296" y="-0" class="ps04 ps11 ps24">20)</tspan>
+</text>
+</g>
+</g>
+<g id="q24" class="ps03 ps22">
+<clipPath id="clp20" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp20)">
+<text transform="matrix(1 0 0 -1 38.7 197.9332)"><tspan x="0" y="-0" class="ps04 ps11 ps27">N</tspan>
+</text>
+</g>
+</g>
+<g id="q25" class="ps03 ps22">
+<clipPath id="clp21" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp21)">
+<text transform="matrix(1 0 0 -1 52.86 197.9332)"><tspan x="0" y="-0" class="ps04 ps11 ps27">-</tspan>
+</text>
+</g>
+</g>
+<g id="q26" class="ps03 ps22">
+<clipPath id="clp22" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp22)">
+<text transform="matrix(1 0 0 -1 67.02 197.9332)"><tspan x="0" y="-0" class="ps04 ps11 ps27">S</tspan>
+</text>
+</g>
+</g>
+<g id="q27" class="ps03 ps22">
+<clipPath id="clp23" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp23)">
+<text transform="matrix(1 0 0 -1 81.18 197.9332)"><tspan x="0,28.072" y="-0" class="ps04 ps11 ps25">&#x65B9;&#x7A0B;</tspan>
+</text>
+</g>
+</g>
+<g id="q28" class="ps03 ps22">
+<clipPath id="clp24" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp24)">
+<text transform="matrix(1 0 0 -1 293.661 321.2383)"><tspan x="0" y="-0" class="ps04 ps13 ps28">&#x4E8C;</tspan>
+</text>
+</g>
+</g>
+<g id="q29" class="ps03 ps22">
+<clipPath id="clp25" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp25)">
+<text transform="matrix(1 0 0 -1 317.781 321.2383)"><tspan x="0,24.12,48.24" y="-0" class="ps04 ps13 ps29">&#x7EF4;&#x7A33;&#x6001;</tspan>
+</text>
+</g>
+</g>
+<g id="q30" class="ps03 ps22">
+<clipPath id="clp26" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp26)">
+<text transform="matrix(1 0 0 -1 390.141 321.2383)"><tspan x="0,24.12,48.24" y="-0" class="ps05 ps13 ps29">&#x5E38;&#x7269;&#x6027;</tspan>
+</text>
+</g>
+</g>
+<g id="q31" class="ps03 ps22">
+<clipPath id="clp27" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp27)">
+<text transform="matrix(1 0 0 -1 305.781 286.6783)"><tspan x="0,24.12,48.24,72.36,96.48,120.6" y="-0" class="ps07 ps13 ps29">&#x4E0D;&#x53EF;&#x538B;&#x7F29;&#x6D41;&#x4F53;</tspan>
+</text>
+</g>
+</g>
+<g id="q32" class="ps03 ps14 ps22">
+<g id="xfrm33" transform="matrix(1 0 0 1 489.6 332.52)">
+<path d="M0 0 L0 -46.635" class="ps06"/>
+</g>
+</g>
+<g id="q34" class="ps03 ps15 ps22">
+<g id="xfrm35" transform="matrix(1 0 0 1 493.1004 291.8849)">
+<path d="M0 0 L-3.5 -6 L-7 0" class="ps06"/>
+</g>
+</g>
+<text transform="matrix(1 0 0 -1 295.8884 40.8237)"><tspan x="0" y="-0" class="ps08 ps15 ps210">&#xFF08;</tspan>
+<tspan x="20.04,30.12" y="-0" class="ps08 ps15 ps211">10</tspan>
+<tspan x="40.2" y="-0" class="ps08 ps15 ps212">-</tspan>
+<tspan x="46.914,56.994" y="-0" class="ps08 ps15 ps211">8a</tspan>
+<tspan x="65.871" y="-0" class="ps08 ps15 ps210">&#xFF09;</tspan>
+</text>
+<g id="q36" class="ps08 ps15 ps210">
+<clipPath id="clp28" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp28)">
+<text transform="matrix(1 0 0 -1 281.8594 423.0572)"><tspan x="0,28.072,56.144,84.216" y="-0" class="ps04 ps16 ps25">&#x6D41;&#x4F53;&#x529B;&#x5B66;</tspan>
+</text>
+</g>
+</g>
+<g id="q37" class="ps08 ps15 ps210">
+<clipPath id="clp29" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp29)">
+<text transform="matrix(1 0 0 -1 394.2994 423.0572)"><tspan x="0,14.148,28.296" y="-0" class="ps04 ps16 ps24">p53</tspan>
+</text>
+</g>
+</g>
+<g id="q38" class="ps08 ps15 ps210">
+<clipPath id="clp30" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp30)">
+<text transform="matrix(1 0 0 -1 436.7794 423.0572)"><tspan x="0" y="-0" class="ps04 ps16 ps26">&#x5F0F;</tspan>
+</text>
+</g>
+</g>
+<g id="q39" class="ps08 ps15 ps210">
+<clipPath id="clp31" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp31)">
+<text transform="matrix(1 0 0 -1 464.8594 423.0572)"><tspan x="0,14.148" y="-0" class="ps04 ps16 ps24">(4</tspan>
+</text>
+</g>
+</g>
+<g id="q40" class="ps08 ps15 ps210">
+<clipPath id="clp32" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp32)">
+<text transform="matrix(1 0 0 -1 493.1794 423.0572)"><tspan x="0" y="-0" class="ps04 ps16 ps27">-</tspan>
+</text>
+</g>
+</g>
+<g id="q41" class="ps08 ps15 ps210">
+<clipPath id="clp33" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp33)">
+<text transform="matrix(1 0 0 -1 507.2194 423.0572)"><tspan x="0,14.148" y="-0" class="ps04 ps16 ps24">2)</tspan>
+</text>
+</g>
+</g>
+<g id="q42" class="ps08 ps15 ps210">
+<clipPath id="clp34" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp34)">
+<text transform="matrix(1 0 0 -1 577.2625 381.751)"><tspan x="0,24.12,48.24,72.36,96.48" y="-0" class="ps04 ps17 ps29">&#x8FDE;&#x7EED;&#x6027;&#x65B9;&#x7A0B;</tspan>
+</text>
+</g>
+</g>
+<text transform="matrix(1 0 0 -1 630.985 519)"><tspan x="0" y="-0" class="ps03 ps15 ps213">p</tspan>
+<tspan x="9.9594,18.959,27.959" y="-0" class="ps03 ps15 ps213">age</tspan>
+<tspan xml:space="preserve" x="36" y="-0" class="ps03 ps15 ps213">&#160;</tspan>
+<tspan x="40.446,49.446" y="-0" class="ps03 ps15 ps213">24</tspan>
+<tspan x="58.446" y="-0" class="ps03 ps15 ps213">0</tspan>
+</text>
+<g id="q43" class="ps03 ps15 ps213">
+<g id="xfrm44" transform="matrix(0.0591581 0 0 -0.0648649 3.05e-005 3.05e-005)">
+<g id="q45" class="ps18">
+<g id="xfrm46" transform="matrix(1 0 0 1 6628.1021 -5913.0454)">
+<path d="M0 0 L472 0" class="ps06"/>
+</g>
+</g>
+</g>
+</g>
+<g id="q47" class="ps03 ps15 ps213">
+<clipPath id="clp35" clip-rule="nonzero">
+<path d="M388.32 352.44 L549.24 352.44 L549.24 416.76 L388.32 416.76 Z"/>
+</clipPath>
+<g clip-path="url(#clp35)">
+<text transform="matrix(0.91202059 0 0 -1 534.5588 377.3222)"><tspan x="0" y="-0" class="ps09 ps214">0</tspan>
+</text>
+<text transform="matrix(0.91202059 0 0 -1 503.9149 377.3221)"><tspan x="0" y="-0" class="ps09 ps214">)</tspan>
+</text>
+<text transform="matrix(0.91202059 0 0 -1 469.4258 377.3221)"><tspan x="0" y="-0" class="ps09 ps214">(</tspan>
+</text>
+<text transform="matrix(0.91202059 0 0 -1 516.9298 377.3221)"><tspan x="0" y="-0" class="ps09 ps215">=</tspan>
+</text>
+<text transform="matrix(0.91202059 0 0 -1 460.9662 377.3221)"><tspan x="0" y="-0" class="ps09 ps215">&#x22C5;</tspan>
+</text>
+<text transform="matrix(0.91202059 0 0 -1 441.7399 377.3221)"><tspan x="0" y="-0" class="ps09 ps215">&#x2207;</tspan>
+</text>
+<text transform="matrix(0.91202059 0 0 -1 425.0573 377.3221)"><tspan x="0" y="-0" class="ps09 ps215">+</tspan>
+</text>
+<text transform="matrix(0.91202059 0 0 -1 396.8981 357.9924)"><tspan x="0" y="-0" class="ps09 ps215">&#x2202;</tspan>
+</text>
+<text transform="matrix(0.91202059 0 0 -1 393.1711 392.8897)"><tspan x="0" y="-0" class="ps09 ps215">&#x2202;</tspan>
+</text>
+<text transform="matrix(0.91202059 0 0 -1 490.7821 377.3221)"><tspan x="0" y="-0" class="ps09 ps216">u</tspan>
+</text>
+<text transform="matrix(0.91202059 0 -0.30400552 -1 478.2998 377.3221)"><tspan x="0" y="-0" class="ps09 ps215">&#x03C1;</tspan>
+<tspan x="-86.406" y="-15.568" class="ps09 ps215">&#x03C1;</tspan>
+</text>
+<text transform="matrix(0.91202059 0 0 -1 407.9608 357.9923)"><tspan x="0" y="-0" class="ps09 ps217">t</tspan>
+</text>
+</g>
+</g>
+<g id="q48" class="ps03 ps15 ps213">
+<g id="xfrm49" transform="matrix(0.0659891 0 0 -0.0623412 9.16e-005 0)">
+<g id="q50" class="ps18">
+<g id="xfrm51" transform="matrix(1 0 0 1 7570.6978 -3380.1306)">
+<path d="M0 0 L424 0" class="ps010"/>
+</g>
+</g>
+</g>
+</g>
+<g id="q52" class="ps03 ps15 ps213">
+<g id="xfrm53" transform="matrix(0.0659891 0 0 -0.0623412 9.16e-005 3.05e-005)">
+<g id="q54" class="ps18">
+<g id="xfrm55" transform="matrix(1 0 0 1 8375.6973 -3380.1306)">
+<path d="M0 0 L410 0" class="ps010"/>
+</g>
+</g>
+</g>
+</g>
+<g id="q56" class="ps03 ps15 ps213">
+<clipPath id="clp36" clip-rule="nonzero">
+<path d="M495.36 177.24 L621.6 177.24 L621.6 242.64 L495.36 242.64 Z"/>
+</clipPath>
+<g clip-path="url(#clp36)">
+<text transform="matrix(1.0585154 0 0 -1 606.3536 204.7366)"><tspan x="0" y="-0" class="ps011 ps218">0</tspan>
+</text>
+<text transform="matrix(1.0585154 0 0 -1 586.6889 204.7366)"><tspan x="0" y="-0" class="ps011 ps219">=</tspan>
+</text>
+<text transform="matrix(1.0585154 0 0 -1 553.8923 186.159)"><tspan x="0" y="-0" class="ps011 ps219">&#x2202;</tspan>
+</text>
+<text transform="matrix(1.0585154 0 0 -1 554.0904 219.6986)"><tspan x="0" y="-0" class="ps011 ps219">&#x2202;</tspan>
+</text>
+<text transform="matrix(1.0585154 0 0 -1 533.1719 204.7367)"><tspan x="0" y="-0" class="ps011 ps219">+</tspan>
+</text>
+<text transform="matrix(1.0585154 0 0 -1 501.4311 186.1591)"><tspan x="0" y="-0" class="ps011 ps219">&#x2202;</tspan>
+</text>
+<text transform="matrix(1.0585154 0 0 -1 500.7712 219.6986)"><tspan x="0" y="-0" class="ps011 ps219">&#x2202;</tspan>
+</text>
+<text transform="matrix(1.0585154 0 0 -1 566.2324 186.1591)"><tspan x="0" y="-0" class="ps011 ps220">y</tspan>
+</text>
+<text transform="matrix(1.0585154 0 0 -1 566.4304 219.6986)"><tspan x="0" y="-0" class="ps011 ps220">v</tspan>
+</text>
+<text transform="matrix(1.0585154 0 0 -1 513.7711 186.1591)"><tspan x="0" y="-0" class="ps011 ps220">x</tspan>
+</text>
+<text transform="matrix(1.0585154 0 0 -1 513.1113 219.6987)"><tspan x="0" y="-0" class="ps011 ps220">u</tspan>
+</text>
+</g>
+</g>
+<g id="q57" class="ps03 ps15 ps213">
+<clipPath id="clp37" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp37)">
+<text transform="matrix(1 0 0 -1 633.2112 342.4088)"><tspan x="0" y="-0" class="ps05 ps17 ps221">t</tspan>
+</text>
+</g>
+</g>
+<text transform="matrix(1 0 0 -1 645.3312 342.4088)"><tspan x="0" y="-0" class="ps08 ps15 ps222">~</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 663.5712 342.4088)"><tspan x="0" y="-0" class="ps08 ps15 ps223">&#x03C4;</tspan>
+</text>
+<g id="q58" class="ps08 ps15 ps223">
+<clipPath id="clp38" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp38)">
+<text transform="matrix(1 0 0 -1 611.7786 315.2394)"><tspan x="0,20.16,40.32,60.481" y="-0" class="ps04 ps19 ps224">&#x6D41;&#x4F53;&#x529B;&#x5B66;</tspan>
+</text>
+</g>
+</g>
+<g id="q59" class="ps08 ps15 ps223">
+<clipPath id="clp39" clip-rule="nonzero">
+<path d="M437.52 248.04 L539.76 248.04 L539.76 276.96 L437.52 276.96 Z"/>
+</clipPath>
+<g clip-path="url(#clp39)">
+<text transform="matrix(0.91655035 0 0 -1 525.0868 254.2372)"><tspan x="0" y="-0" class="ps09 ps225">0</tspan>
+<tspan x="-25.557" y="-0" class="ps09 ps226">=</tspan>
+<tspan x="-66.235" y="-0" class="ps09 ps226">&#x22C5;</tspan>
+<tspan x="-92.561" y="-0" class="ps09 ps226">&#x2207;</tspan>
+<tspan x="-51.511" y="-0" class="ps04 ps110 ps225">u</tspan>
+</text>
+</g>
+</g>
+<path d="M437.16 277.32 L540.12 277.32 L540.12 247.68 L437.16 247.68 Z" class="ps012 ps111 ps223"/>
+<path d="M53.88 182.76 L344.52 182.76 L344.52 122.04 L53.88 122.04 Z" class="ps013 ps111 ps223"/>
+<g id="q60" class="ps013 ps111 ps223">
+<g id="xfrm61" transform="matrix(0.0461041 0 0 -0.0558088 3.8e-006 0)">
+<g id="q62" class="ps112">
+<g id="xfrm63" transform="matrix(1 0 0 1 1232.6606 -2730.7512)">
+<path d="M0 0 L442 0" class="ps06"/>
+</g>
+</g>
+</g>
+</g>
+<g id="q64" class="ps013 ps111 ps223">
+<g id="xfrm65" transform="matrix(0.0461041 0 0 -0.0558088 7.6e-006 0)">
+<g id="q66" class="ps112">
+<g id="xfrm67" transform="matrix(1 0 0 1 3000.6606 -2730.7512)">
+<path d="M0 0 L298 0" class="ps06"/>
+</g>
+</g>
+</g>
+</g>
+<g id="q68" class="ps013 ps111 ps223">
+<g id="xfrm69" transform="matrix(0.0461041 0 0 -0.0558088 1.14e-005 0)">
+<g id="q70" class="ps112">
+<g id="xfrm71" transform="matrix(1 0 0 1 5702.6606 -2730.7512)">
+<path d="M0 0 L232 0" class="ps06"/>
+</g>
+</g>
+</g>
+</g>
+<g id="q72" class="ps013 ps111 ps223">
+<clipPath id="clp40" clip-rule="nonzero">
+<path d="M53.88 122.04 L344.52 122.04 L344.52 182.76 L53.88 182.76 Z"/>
+</clipPath>
+<g clip-path="url(#clp40)">
+<text transform="matrix(0.82610846 0 0 -1 335.8524 147.0424)"><tspan x="0" y="-0" class="ps09 ps227">)</tspan>
+</text>
+<text transform="matrix(0.82610846 0 0 -1 288.5497 147.0424)"><tspan x="0" y="-0" class="ps09 ps227">(</tspan>
+</text>
+<text transform="matrix(0.82610846 0 0 -1 263.838 130.2997)"><tspan x="0" y="-0" class="ps09 ps227">3</tspan>
+</text>
+<text transform="matrix(0.82610846 0 0 -1 140.7862 160.5481)"><tspan x="0" y="-0" class="ps09 ps227">1</tspan>
+</text>
+<text transform="matrix(0.82610846 0 0 -1 57.1996 130.2997)"><tspan x="0" y="-0" class="ps09 ps227">d</tspan>
+<tspan x="0.4929" y="-30.239" class="ps09 ps227">d</tspan>
+</text>
+<text transform="matrix(0.82610469 0 0 -1 223.543 156.6415)"><tspan x="0" y="-0" class="ps09 ps228">2</tspan>
+</text>
+<text transform="matrix(0.82610846 0 0 -1 326.4473 147.0424)"><tspan x="0" y="-0" class="ps04 ps113 ps227">u</tspan>
+<tspan x="-117.42" y="-0" class="ps04 ps113 ps227">u</tspan>
+<tspan x="-267.88" y="-0" class="ps04 ps113 ps227">f</tspan>
+<tspan x="-314.71" y="-13.501" class="ps04 ps113 ps227">u</tspan>
+<tspan x="-12.73" y="-0" class="ps09 ps113 ps229">&#x22C5;</tspan>
+<tspan x="-35.489" y="-0" class="ps09 ps113 ps229">&#x2207;</tspan>
+<tspan x="-57.584" y="-0" class="ps09 ps113 ps229">&#x2207;</tspan>
+<tspan x="-97.659" y="-0" class="ps09 ps113 ps229">+</tspan>
+<tspan x="-140.73" y="-0" class="ps09 ps113 ps229">&#x2207;</tspan>
+<tspan x="-168.53" y="-0" class="ps09 ps113 ps229">+</tspan>
+<tspan x="-204.68" y="-0" class="ps09 ps113 ps229">&#x2207;</tspan>
+<tspan x="-248.1" y="-0" class="ps09 ps113 ps229">&#x2212;</tspan>
+<tspan x="-289.96" y="-0" class="ps09 ps113 ps229">=</tspan>
+</text>
+<text transform="matrix(0.82610846 0 -0.27536793 -1 261.3486 160.5482)"><tspan x="0" y="-0" class="ps09 ps113 ps227">v</tspan>
+<tspan x="-68.171" y="13.501" class="ps09 ps113 ps227">v</tspan>
+<tspan x="-106.02" y="13.501" class="ps09 ps113 ps227">p</tspan>
+<tspan x="-226.35" y="30.239" class="ps09 ps113 ps227">t</tspan>
+<tspan x="-136.73" y="30.239" class="ps09 ps113 ps229">&#x03C1;</tspan>
+</text>
+</g>
+</g>
+<path d="M53.88 109.8 L303.84 109.8 L303.84 28.32 L53.88 28.32 Z" class="ps013 ps111 ps223"/>
+<g id="q73" class="ps013 ps111 ps223">
+<g id="xfrm74" transform="matrix(0.0615059 0 0 -0.0748897 1.14e-005 2.29e-005)">
+<g id="q75" class="ps112">
+<g id="xfrm76" transform="matrix(1 0 0 1 940.0135 -922.1566)">
+<path d="M0 0 L442 0" class="ps06"/>
+</g>
+</g>
+</g>
+</g>
+<g id="q77" class="ps013 ps111 ps223">
+<g id="xfrm78" transform="matrix(0.0615059 0 0 -0.0748897 2.29e-005 4.58e-005)">
+<g id="q79" class="ps112">
+<g id="xfrm80" transform="matrix(1 0 0 1 2708.0137 -922.1566)">
+<path d="M0 0 L298 0" class="ps06"/>
+</g>
+</g>
+</g>
+</g>
+<g id="q81" class="ps013 ps111 ps223">
+<clipPath id="clp41" clip-rule="nonzero">
+<path d="M53.88 28.32 L303.84 28.32 L303.84 109.8 L53.88 109.8 Z"/>
+</clipPath>
+<g clip-path="url(#clp41)">
+<text transform="matrix(0.82128898 0 0 -1 288.0945 61.8707)"><tspan x="0" y="-0" class="ps04 ps114 ps230">u</tspan>
+<tspan x="-201.91" y="-0" class="ps04 ps114 ps230">f</tspan>
+<tspan x="-264.74" y="-18.117" class="ps04 ps114 ps230">u</tspan>
+</text>
+<text transform="matrix(0.82128487 0 0 -1 280.2219 74.7517)"><tspan x="0" y="-0" class="ps09 ps114 ps231">2</tspan>
+</text>
+<text transform="matrix(0.82128898 0 0 -1 169.8188 79.994)"><tspan x="0" y="-0" class="ps09 ps114 ps230">1</tspan>
+<tspan x="-135.76" y="40.577" class="ps09 ps114 ps230">d</tspan>
+<tspan x="-135.1" y="-0" class="ps09 ps114 ps230">d</tspan>
+<tspan x="112.7" y="18.117" class="ps09 ps114 ps232">&#x2207;</tspan>
+<tspan x="75.402" y="18.117" class="ps09 ps114 ps232">+</tspan>
+<tspan x="26.888" y="18.117" class="ps09 ps114 ps232">&#x2207;</tspan>
+<tspan x="-31.375" y="18.117" class="ps09 ps114 ps232">&#x2212;</tspan>
+<tspan x="-87.538" y="18.117" class="ps09 ps114 ps232">=</tspan>
+</text>
+<text transform="matrix(0.82128898 0 -0.27376415 -1 250.5764 61.8708)"><tspan x="0" y="-0" class="ps09 ps114 ps230">v</tspan>
+<tspan x="-50.786" y="-0" class="ps09 ps114 ps230">p</tspan>
+<tspan x="-212.26" y="22.46" class="ps09 ps114 ps230">t</tspan>
+<tspan x="-91.996" y="22.46" class="ps09 ps114 ps232">&#x03C1;</tspan>
+</text>
+</g>
+</g>
+<g id="q82" class="ps013 ps115 ps223">
+<g id="xfrm83" transform="matrix(1 0 0 1 76.62 404.7)">
+<path d="M0 0 L158.76 -0" class="ps010"/>
+</g>
+</g>
+<g id="q84" class="ps013 ps115 ps223">
+<g id="xfrm85" transform="matrix(1 0 0 1 68.22 354.66)">
+<path d="M0 0 L158.76 -0" class="ps010"/>
+</g>
+</g>
+<g id="q86" class="ps013 ps115 ps223">
+<clipPath id="clp42" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp42)">
+<text transform="matrix(1 0 0 -1 229.1057 15.4296)"><tspan x="0" y="-0" class="ps04 ps116 ps27">(</tspan>
+</text>
+</g>
+</g>
+<g id="q87" class="ps013 ps115 ps223">
+<clipPath id="clp43" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp43)">
+<text transform="matrix(1 0 0 -1 243.2657 15.4296)"><tspan x="0" y="-0" class="ps04 ps116 ps27">4</tspan>
+</text>
+</g>
+</g>
+<g id="q88" class="ps013 ps115 ps223">
+<clipPath id="clp44" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp44)">
+<text transform="matrix(1 0 0 -1 257.4257 15.4296)"><tspan x="0" y="-0" class="ps04 ps116 ps27">-</tspan>
+</text>
+</g>
+</g>
+<g id="q89" class="ps013 ps115 ps223">
+<clipPath id="clp45" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp45)">
+<text transform="matrix(1 0 0 -1 271.5857 15.4296)"><tspan x="0" y="-0" class="ps04 ps116 ps233">2</tspan>
+<tspan x="14.159,28.195" y="-0" class="ps04 ps116 ps233">1)</tspan>
+</text>
+</g>
+</g>
+<g id="q90" class="ps013 ps115 ps223">
+<g id="xfrm91" transform="matrix(0.0606398 0 0 -0.0579529 3.05e-005 1.53e-005)">
+<g id="q92" class="ps18">
+<g id="xfrm93" transform="matrix(1 0 0 1 6345.0215 -1672.5342)">
+<path d="M0 0 L444 0" class="ps06"/>
+</g>
+</g>
+</g>
+</g>
+<g id="q94" class="ps013 ps115 ps223">
+<g id="xfrm95" transform="matrix(0.0606398 0 0 -0.0579529 3.05e-005 3.81e-005)">
+<g id="q96" class="ps18">
+<g id="xfrm97" transform="matrix(1 0 0 1 7206.0215 -1672.5342)">
+<path d="M0 0 L439 0" class="ps06"/>
+</g>
+</g>
+</g>
+</g>
+<g id="q98" class="ps013 ps115 ps223">
+<clipPath id="clp46" clip-rule="nonzero">
+<path d="M380.88 69.36 L561 69.36 L561 126.6 L380.88 126.6 Z"/>
+</clipPath>
+<g clip-path="url(#clp46)">
+<text transform="matrix(1.0463649 0 0 -1 544.365 91.3647)"><tspan x="0" y="-0" class="ps09 ps234">u</tspan>
+<tspan x="-47.801" y="-0" class="ps09 ps234">u</tspan>
+<tspan x="-90.751" y="-13.909" class="ps09 ps234">u</tspan>
+<tspan x="-140.36" y="-13.909" class="ps09 ps234">u</tspan>
+<tspan x="-7.8111" y="-0" class="ps09 ps235">)</tspan>
+<tspan x="-55.902" y="-0" class="ps09 ps235">(</tspan>
+<tspan x="-148.79" y="17.269" class="ps09 ps235">d</tspan>
+<tspan x="-151.46" y="-13.909" class="ps09 ps235">d</tspan>
+<tspan x="-23.967" y="7.412e-015" class="ps09 ps236">&#x2207;</tspan>
+<tspan x="-32.246" y="7.412e-015" class="ps09 ps236">&#x22C5;</tspan>
+<tspan x="-72.236" y="7.412e-015" class="ps09 ps236">+</tspan>
+<tspan x="-98.896" y="17.269" class="ps09 ps236">&#x2202;</tspan>
+<tspan x="-101.57" y="-13.909" class="ps09 ps236">&#x2202;</tspan>
+<tspan x="-120.68" y="1.4824e-014" class="ps09 ps236">=</tspan>
+<tspan x="-88.059" y="17.269" class="ps09 ps237">t</tspan>
+<tspan x="-137.66" y="17.269" class="ps09 ps237">t</tspan>
+</text>
+</g>
+</g>
+<g id="q99" class="ps013 ps115 ps223">
+<clipPath id="clp47" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp47)">
+<text transform="matrix(1 0 0 -1 423.0125 139.4003)"><tspan x="0,28.072,56.144,84.216" y="-0" class="ps04 ps116 ps25">&#x6D41;&#x4F53;&#x529B;&#x5B66;</tspan>
+</text>
+</g>
+</g>
+<g id="q100" class="ps013 ps115 ps223">
+<clipPath id="clp48" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp48)">
+<text transform="matrix(1 0 0 -1 535.4525 139.4003)"><tspan x="0,14.148,28.296" y="-0" class="ps04 ps116 ps24">p35</tspan>
+</text>
+</g>
+</g>
+<g id="q101" class="ps013 ps115 ps223">
+<clipPath id="clp49" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp49)">
+<text transform="matrix(1 0 0 -1 577.9326 139.4003)"><tspan x="0" y="-0" class="ps04 ps116 ps26">&#x5F0F;</tspan>
+</text>
+</g>
+</g>
+<g id="q102" class="ps013 ps115 ps223">
+<clipPath id="clp50" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp50)">
+<text transform="matrix(1 0 0 -1 606.0125 139.4003)"><tspan x="0,14.148" y="-0" class="ps04 ps116 ps24">(3</tspan>
+</text>
+</g>
+</g>
+<g id="q103" class="ps013 ps115 ps223">
+<clipPath id="clp51" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp51)">
+<text transform="matrix(1 0 0 -1 634.3325 139.4003)"><tspan x="0" y="-0" class="ps04 ps116 ps27">-</tspan>
+</text>
+</g>
+</g>
+<g id="q104" class="ps013 ps115 ps223">
+<clipPath id="clp52" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp52)">
+<text transform="matrix(1 0 0 -1 648.3725 139.4003)"><tspan x="0,14.148" y="-0" class="ps04 ps116 ps24">14</tspan>
+</text>
+</g>
+</g>
+<g id="q105" class="ps013 ps115 ps223">
+<clipPath id="clp53" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp53)">
+<text transform="matrix(1 0 0 -1 676.6925 139.4003)"><tspan x="0" y="-0" class="ps04 ps116 ps27">)</tspan>
+</text>
+</g>
+</g>
+<g id="q106" class="ps013 ps115 ps223">
+<clipPath id="clp54" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp54)">
+<text transform="matrix(1 0 0 -1 384.351 139.9854)"><tspan x="0" y="-0" class="ps04 ps117 ps28">&#x53C8;</tspan>
+</text>
+</g>
+</g>
+<g id="q107" class="ps013 ps115 ps223">
+<g id="xfrm108" transform="matrix(1 0 0 1 375.54 171.5416)">
+<path d="M0 0 L317.32 3.598" class="ps014"/>
+</g>
+</g>
+<g id="q109" class="ps013 ps115 ps223">
+<clipPath id="clp55" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp55)">
+<text transform="matrix(1 0 0 -1 598.0321 85.5908)"><tspan x="0,24.12,48.24,72.36" y="-0" class="ps04 ps117 ps29">&#x968F;&#x4F53;&#x5BFC;&#x6570;</tspan>
+</text>
+</g>
+</g>
+<path d="M389.28 65.28 L641.16 65.28 L641.16 8.52 L389.28 8.52 Z" class="ps013 ps115 ps223"/>
+<g id="q110" class="ps013 ps115 ps223">
+<g id="xfrm111" transform="matrix(0.0427785 0 0 -0.0521691 -3.05e-005 -1.53e-005)">
+<g id="q112" class="ps18">
+<g id="xfrm113" transform="matrix(1 0 0 1 9163.8916 -707.3149)">
+<path d="M0 0 L448 0" class="ps06"/>
+</g>
+</g>
+</g>
+</g>
+<g id="q114" class="ps013 ps115 ps223">
+<g id="xfrm115" transform="matrix(0.0427785 0 0 -0.0521691 -6.1e-005 -3.05e-005)">
+<g id="q116" class="ps18">
+<g id="xfrm117" transform="matrix(1 0 0 1 12737.892 -707.3149)">
+<path d="M0 0 L298 0" class="ps06"/>
+</g>
+</g>
+</g>
+</g>
+<g id="q118" class="ps013 ps115 ps223">
+<clipPath id="clp56" clip-rule="nonzero">
+<path d="M389.28 8.52 L641.16 8.52 L641.16 65.279 L389.28 65.279 Z"/>
+</clipPath>
+<g clip-path="url(#clp56)">
+<text transform="matrix(0.8200011 0 0 -1 629.4385 31.8917)"><tspan x="0" y="-0" class="ps04 ps118 ps238">u</tspan>
+</text>
+<text transform="matrix(0.8200011 0 0 -1 514.1074 31.8917)"><tspan x="0" y="-0" class="ps04 ps118 ps238">f</tspan>
+</text>
+<text transform="matrix(0.8200011 0 0 -1 479.9701 31.8917)"><tspan x="0" y="-0" class="ps04 ps118 ps238">u</tspan>
+</text>
+<text transform="matrix(0.8200011 0 0 -1 438.9026 31.8917)"><tspan x="0" y="-0" class="ps04 ps118 ps238">u</tspan>
+</text>
+<text transform="matrix(0.8200011 0 0 -1 401.2147 44.5166)"><tspan x="0" y="-0" class="ps04 ps118 ps238">u</tspan>
+</text>
+<text transform="matrix(0.81999675 0 0 -1 623.9625 40.8648)"><tspan x="0" y="-0" class="ps09 ps118 ps239">2</tspan>
+</text>
+<text transform="matrix(0.8200011 0 0 -1 547.1749 44.5166)"><tspan x="0" y="-0" class="ps09 ps118 ps238">1</tspan>
+</text>
+<text transform="matrix(0.8200011 0 0 -1 474.323 31.8917)"><tspan x="0" y="-0" class="ps09 ps118 ps238">)</tspan>
+</text>
+<text transform="matrix(0.8200011 0 0 -1 430.4321 31.8917)"><tspan x="0" y="-0" class="ps09 ps118 ps238">(</tspan>
+</text>
+<text transform="matrix(0.8200011 0 0 -1 611.5563 31.8917)"><tspan x="0" y="-0" class="ps09 ps118 ps240">&#x2207;</tspan>
+</text>
+<text transform="matrix(0.8200011 0 0 -1 590.2524 31.8917)"><tspan x="0" y="-0" class="ps09 ps118 ps240">+</tspan>
+</text>
+<text transform="matrix(0.8200011 0 0 -1 562.5318 31.8917)"><tspan x="0" y="-0" class="ps09 ps118 ps240">&#x2207;</tspan>
+</text>
+<text transform="matrix(0.8200011 0 0 -1 529.2501 31.8916)"><tspan x="0" y="-0" class="ps09 ps118 ps240">&#x2212;</tspan>
+</text>
+<text transform="matrix(0.8200011 0 0 -1 497.1661 31.8916)"><tspan x="0" y="-0" class="ps09 ps118 ps240">=</tspan>
+</text>
+<text transform="matrix(0.8200011 0 0 -1 462.5155 31.8916)"><tspan x="0" y="-0" class="ps09 ps118 ps240">&#x2207;</tspan>
+</text>
+<text transform="matrix(0.8200011 0 0 -1 453.2753 31.8916)"><tspan x="0" y="-0" class="ps09 ps118 ps240">&#x22C5;</tspan>
+</text>
+<text transform="matrix(0.8200011 0 0 -1 418.1113 31.8916)"><tspan x="0" y="-0" class="ps09 ps118 ps240">+</tspan>
+</text>
+<text transform="matrix(0.8200011 0 0 -1 392.8719 16.2409)"><tspan x="0" y="-0" class="ps09 ps118 ps240">&#x2202;</tspan>
+</text>
+<text transform="matrix(0.8200011 0 0 -1 393.2569 44.5165)"><tspan x="0" y="-0" class="ps09 ps118 ps240">&#x2202;</tspan>
+</text>
+<text transform="matrix(0.8200011 0 -0.27333536 -1 603.3422 31.8916)"><tspan x="0" y="-0" class="ps09 ps118 ps238">v</tspan>
+</text>
+<text transform="matrix(0.8200011 0 -0.27333536 -1 574.3382 31.8916)"><tspan x="0" y="-0" class="ps09 ps118 ps238">p</tspan>
+</text>
+<text transform="matrix(0.8200011 0 -0.27333536 -1 400.8284 16.2409)"><tspan x="0" y="-0" class="ps09 ps118 ps238">t</tspan>
+</text>
+<text transform="matrix(0.8200011 0 -0.27333536 -1 546.532 16.2409)"><tspan x="0" y="-0" class="ps09 ps118 ps240">&#x03C1;</tspan>
+</text>
+</g>
+</g>
+<path d="M388.92 65.64 L641.52 65.64 L641.52 8.16 L388.92 8.16 Z" class="ps012 ps111 ps223"/>
+<text transform="matrix(1 0 0 -1 638.2425 189.9156)"><tspan x="0" y="-0" class="ps015 ps111 ps210">&#xFF08;</tspan>
+<tspan x="20.04,30.12" y="-0" class="ps015 ps111 ps211">10</tspan>
+<tspan x="40.2" y="-0" class="ps015 ps111 ps212">-</tspan>
+<tspan x="46.914" y="-0" class="ps015 ps111 ps212">6</tspan>
+<tspan x="56.994" y="-0" class="ps015 ps111 ps210">&#xFF09;</tspan>
+</text>
+<g id="q119" class="ps015 ps111 ps210">
+<clipPath id="clp57" clip-rule="nonzero">
+<path d="M0 0 L720 0 L720 540 L0 540 Z"/>
+</clipPath>
+<g clip-path="url(#clp57)">
+<g id="q120" class="ps00 ps119">
+<g id="xfrm121" transform="matrix(1 0 0 1 2.34 265.86)">
+<path d="M0 0 L373.19 -0" class="ps014"/>
+</g>
+</g>
+</g>
+</g>
+<g id="q122" class="ps015 ps115 ps210">
+<g id="xfrm123" transform="matrix(1 0 0 1 377.1 263.58)">
+<path d="M0 0 L0 -92.543" class="ps014"/>
+</g>
+</g>
+</g>
+<g id="q124" class="">
+<g id="xfrm125" transform="matrix(720 0 0 540 0 0)">
+<clipPath id="clp58" clip-rule="nonzero">
+<rect x="0" y="0" width="100" height="100"/>
+</clipPath>
+<g id="frm126" transform="matrix(0.01 0 0 0.01 0 0)" clip-path="url(#clp58)">
+<text transform="matrix(1 0 0 -1 0 43.5267)"><tspan x="0,9.3475,18.695,28.043,31.642,38.84,46.038,49.638,53.237,57.548,64.746,71.945,75.544,82.017,89.216" y="-0" class="ps016 ps120 ps241">www.pdftron.com</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+</svg>
