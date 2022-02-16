@@ -32,6 +32,6 @@ def create_readme(workspace_path):
         return False
 
     with open(readme_file_path, "w", encoding="utf-8") as f:
-        f.write(comment)
+        # f.write(comment)
         write_main_content(workspace_path, f)
     return True
