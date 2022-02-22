@@ -1,29 +1,19 @@
-import re
+import hui_tool
 
-express = r'<div style="-aw-headerfooter-type:.*?clear:\bboth">.*?</div>'
+html_express = r'<div style="-aw-headerfooter-type:.*?clear:\bboth">.*?</div>'
 
-
-def get_html_content(file_name):
-    with open(file_name, 'r', encoding='utf-8') as f:
-        content = f.read()
-    return content
+svg_express = r'<tspan x="[-+]?[0-9]*\.?[0-9]+" y="[-+]?[0-9]*\.?[0-9]+" textLength="[-+]?[0-9]*\.?[0-9]+" id="tp_[0-9]\d*.*?>.*?</tspan>'
 
 
-def get_html_content_list(file_name):
-    content = get_html_content(file_name)
-    content_list = re.findall(express, content)
-    return content_list
+def sub_file_express(file_name, express):
+    content = hui_tool.get_file_content(file_name)
+    filter_content = hui_tool.sub_content(content, express)
+    hui_tool.write_file_content(file_name, filter_content)
 
-def sub_content(content):
-    return re.sub(express, '', content)
 
-def main(file_name_full):
-    content = get_html_content(file_name_full)
-    filter_content = sub_content(content)
-    with open(file_name_full, 'w', encoding='utf-8') as f:
-        f.write(filter_content)
+def sub_file_html_express(file_name):
+    sub_file_express(file_name, html_express)
 
-if __name__ == '__main__':
-    file_name = r'F:\Git_WorkSpace\MCU\MCU_C51\SCUT_Experiment2\RES\task\红外发射器课程设计任务书\.hui_pict\pict_word2svg\红外发射器课程设计任务书.html'
-    content_list = get_html_content_list(file_name)
-    print(content_list)
+
+def sub_file_svg_express(file_name):
+    sub_file_express(file_name, svg_express)

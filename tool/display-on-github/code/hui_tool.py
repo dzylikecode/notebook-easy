@@ -1,6 +1,7 @@
 import os
 import shutil
 from loguru import logger
+import re
 
 
 def check_file_folder_template(name, check_func, create_func):
@@ -120,3 +121,18 @@ def get_file_all(path):
         for file in files:
             file_list.append(os.path.join(root, file))
     return file_list
+
+
+def get_file_content(file_name):
+    with open(file_name, 'r', encoding='utf-8') as f:
+        content = f.read()
+    return content
+
+
+def write_file_content(file_name, content):
+    with open(file_name, 'w', encoding='utf-8') as f:
+        f.write(content)
+
+
+def sub_content(content, express):
+    return re.sub(express, '', content)

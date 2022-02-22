@@ -1,5 +1,6 @@
 import aspose.slides as slides
 import os
+import html_delete_tag
 
 svg_name_format = "%s_%05d.svg"
 
@@ -20,7 +21,8 @@ def convert_pptx2svg(pptx_file_name, svg_folder_name):
             svg_file_name_full = os.path.join(svg_folder_name, svg_file_name)
             with open(svg_file_name_full, "wb") as file:
                 slide.write_as_svg(file)
-
+            # detect svg tag
+            html_delete_tag.sub_file_svg_express(svg_file_name_full)
     return True
 
 
