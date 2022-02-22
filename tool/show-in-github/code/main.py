@@ -8,8 +8,8 @@ from loguru import logger
 file_type = {
     ".pdf": pdf_main.main,
     ".pptx": ppt_main.main,
-    # ".docx": word_main.main,
-    # ".doc": word_main.main
+    ".docx": word_main.main,
+    ".doc": word_main.main
 }
 
 
@@ -49,5 +49,6 @@ def main(workspace_path):
 if __name__ == "__main__":
     # test_main()
     workpath = os.getcwd()
+    workpath = r"F:\Git_WorkSpace\02notebook\notebook-easy\test"
     main(workpath)
     print("Done!")

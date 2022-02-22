@@ -110,6 +110,7 @@ def get_all_file(path, file_type):
                 file_list.append(os.path.join(root, file))
     return file_list
 
+
 def get_file_all(path):
     """
     Get all files in the folder.
