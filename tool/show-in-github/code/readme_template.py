@@ -11,7 +11,7 @@ svg_format = """
 </span>
 """
 
-html_preview = "http://htmlpreview.github.io/"
+html_preview = "http://htmlpreview.github.io/?"
 
 html_format = """
 [%s](%s%s)
