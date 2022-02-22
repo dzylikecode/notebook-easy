@@ -1,18 +1,7 @@
-# PDF2SVG
 
-This is a tool for converting pdf file to svg file.
+# notebook_easy
 
-## Usage
+create notebook easily
 
-```bash
-pdf2svg [pdf file name] [svg folder name]
-```
-
-## Example
-
-```bash
-pdf2svg test.pdf .pict
-```
-
-## Author
+## 
 
