@@ -3,6 +3,7 @@ import pdf_main
 import word_main
 import os
 import hui_tool
+from loguru import logger
 
 file_type = {
     ".pdf": pdf_main.main,
@@ -21,7 +22,9 @@ def check_supported_file(ext):
 def file_convert(file_name_full):
     ext = os.path.splitext(file_name_full)[1]
     if check_supported_file(ext):
+        logger.info("start convert file %s" % file_name_full)
         file_type[ext](file_name_full, ext)
+        logger.info("finish convert file %s" % file_name_full)
     else:
         print("Unsupported file type: %s" % ext)
 
