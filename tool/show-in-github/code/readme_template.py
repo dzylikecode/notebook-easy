@@ -14,7 +14,7 @@ svg_format = """
 html_preview = "http://htmlpreview.github.io/?"
 
 html_format = """
-[%s](%s%s)
+- [%s](%s%s)
 """
 username = ""
 project_name = ""

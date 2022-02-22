@@ -7,7 +7,7 @@ import os
 
 class word:
     def __init__(self, ext):
-        self.pict_folder_name = "pict_word2svg"
+        self.pict_folder_name = "pict_word2html"
         self.file_type = ext
         self.relative_path = file_frame.get_relative_path(
             self.pict_folder_name)

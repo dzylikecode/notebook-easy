@@ -1,7 +1,7 @@
 import aspose.words as aw
 import os
-import word_process
-
+# import word_process
+import html_delete_tag
 
 def convert_word2html(word_file_name, html_folder_name):
     """
@@ -21,7 +21,8 @@ def convert_word2html(word_file_name, html_folder_name):
     # Save the document as HTML
     doc.save(html_file_name_full, options)
 
-    word_process.main(html_folder_name)
+    # word_process.main(html_folder_name)
+    html_delete_tag.main(html_file_name_full)
 
     return True
 
