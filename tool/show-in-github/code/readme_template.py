@@ -1,4 +1,5 @@
 from loguru import logger
+import os
 
 comment = """
 <!-- auto created by notebook_easy -->
@@ -10,7 +11,7 @@ svg_format = """
 </span>
 """
 
-html_preview = "htmlpreview.github.io/?"
+html_preview = "http://htmlpreview.github.io/"
 
 html_format = """
 [%s](%s%s)

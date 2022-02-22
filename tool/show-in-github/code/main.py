@@ -8,8 +8,8 @@ from loguru import logger
 file_type = {
     ".pdf": pdf_main.main,
     ".pptx": ppt_main.main,
-    ".docx": word_main.main,
-    ".doc": word_main.main
+    # ".docx": word_main.main,
+    # ".doc": word_main.main
 }
 
 
