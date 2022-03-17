@@ -1,6 +1,6 @@
 import os
 
-pdf2svg_command = "pdf2svg %s --embedimages --digits 5 -o %s"
+pdf2svg_command = r'pdf2svg "%s" --embedimages --digits 5 -o "%s"'
 
 
 def convert_pdf2svg(pdf_file_name, svg_folder_name):

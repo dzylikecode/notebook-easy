@@ -49,6 +49,6 @@ def main(workspace_path):
 if __name__ == "__main__":
     # test_main()
     workpath = os.getcwd()
-    # workpath = r"F:\Git_WorkSpace\02notebook\notebook-easy\test"
+    # workpath = r"F:\Git_WorkSpace\scut\SCUT_3_Forming-Technology-Basics\RES"
     main(workpath)
     print("Done!")

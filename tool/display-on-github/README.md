@@ -50,6 +50,7 @@
   > [pdf2svg](https://www.pdftron.com/documentation/cli/download/)
   >
   > extension : [PDFTRON](https://www.pdftron.com/documentation/python/get-started/)
+  > [pdf2svg](https://docs.aspose.com/pdf/java/convert-pdf-to-svg-format-in-python/)
 
 #### ppt
 
